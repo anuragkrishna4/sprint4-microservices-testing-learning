@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.nisum.greeter.autoconfig.GreeterAutoConfiguration
